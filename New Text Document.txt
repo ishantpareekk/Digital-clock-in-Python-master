@@ -1,0 +1,5 @@
+python --version
+
+cd c:\Users\ishan\Downloads\Projects\Digital-clock-in-Python-master
+
+python app.py
